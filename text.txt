@@ -1,0 +1,24 @@
+question: "What was the most used programming language in 2019?",
+a: "Java",
+b: "C",
+c: "Python",
+d: "JavaScript",
+correct: "d".
+question: "Who is the President of us?",
+a: "Donald Trump",
+b: "Joe Biden",
+c: "Hillary Clinton".
+d: "Bernie Sanders"
+correct: "b".
+question: "What does HTML stand for?",
+a: "Hypertext Markup Language",
+b: "Cascading Style Sheet",
+c: "Jason Object Notation"
+d: "none of the above"
+correct: "a".
+question: "What year was JavaScript launched?"
+a: "1993",
+b: "1994",
+C: "1995"
+d: "1996"
+correct: "c".
