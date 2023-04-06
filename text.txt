@@ -7,18 +7,18 @@ correct: "d".
 question: "Who is the President of us?",
 a: "Donald Trump",
 b: "Joe Biden",
-c: "Hillary Clinton".
-d: "Bernie Sanders"
+c: "Hillary Clinton",
+d: "Bernie Sanders",
 correct: "b".
 question: "What does HTML stand for?",
 a: "Hypertext Markup Language",
 b: "Cascading Style Sheet",
-c: "Jason Object Notation"
-d: "none of the above"
+c: "Jason Object Notation",
+d: "none of the above",
 correct: "a".
-question: "What year was JavaScript launched?"
+question: "What year was JavaScript launched?",
 a: "1993",
 b: "1994",
-C: "1995"
-d: "1996"
+C: "1995",
+d: "1996",
 correct: "c".
